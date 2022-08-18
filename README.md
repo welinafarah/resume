@@ -6,6 +6,11 @@ I need to explain why I created this
 ## Features
 Description of the features in this html template
 
+#### To do
+* Add resume.html file to repo
+* Load resume sections
+* Beautify with CSS and JS 
+
 ###### Features to add
 * Print option
 * Links to Blog
