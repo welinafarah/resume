@@ -1,0 +1,102 @@
+data = {
+	"basic_profile": {
+		"first_name":"Welina",
+		"last_nam": "Farah",
+		"middle_initial": ""
+	},
+	"contact_info": {
+		"email":"welina.farah@gmail.com",
+		"phone":"(781) 801-0660",
+		"base_location":"Boston",
+		"state": "MA"
+	},
+	"education": {
+		"school":"UMass Boston",
+		"state":"MA",
+		"major":""
+	},
+	"work_experiance": [
+		{	
+			"job_title":"Project Manager",
+			"company":"Joslin Diabetes Center",
+			"city":"Boston",
+			"state":"MA",
+			"start":"2021",
+			"end":"",
+			"job_description": [
+				"Build relationships with signed-on clients engaging with Joslin educational content",
+				"Guide and coach world-renowned Joslin clinicians to present in a timely manner according to predetermined parameters",
+				"Organize and maintain inventory of over 1,000 pieces of diabetes content alongside Technology Support Manager",
+				"Collaborate with peers on organization-wide operational initiatives: marketing strategies, database organizing, creating internal processes and standard operating procedures, etc."
+			]
+		},
+		{	
+			"job_title":"Administrative Assistant",
+			"company":"MIT Open Learning",
+			"city":"Boston",
+			"state":"MA",
+			"start":"2018",
+			"end":"2021",
+			"job_description": [
+				"Oversaw day-to-day scheduling and complex calendar management for Dean and teams",
+				"Owned and maintained databases, records, internal processes, and documentation at scale",
+				"Managed inter-departmental projects, composed and communicated project timelines",
+				"Collaborated on organization-wide operational initiatives and projects"
+			]
+		},
+		{	
+			"job_title":"Graduate Teaching Assistant",
+			"company":"UMass Boston, American Studies ",
+			"city":"Boston",
+			"state":"MA",
+			"start":"2016",
+			"end":"2018",
+			"job_description": [
+				"Managed classrooms of up to 120 undergraduate students; kept track of progress in course",
+				"Facilitated lectures as professor on an as-needed basis; created lesson plan and objectives",
+				"Advised and instructed students during regularly held office hours, coached undergraduates",
+				"Tracked and documented lectures across three classes for four semesters; collected and archived notes for students who missed class"
+			]
+		},
+	],
+	"portfolio":
+		{
+			"articles":[
+				{
+					"title":"Do you 'KnowThyProf'? Northeastern student's new website offers a RateMyProfessors alternative",
+					"published_on":"03/21/2012",
+					"description":"",
+					"link":"http://archive.boston.com/lifestyle/blogs/thenextgreatgeneration/2012/03/do_you_knowthyprof_northeaster.html"
+
+				},
+				{
+					"title":"OPINION: Even if it's work-related, it's OK to 'power off' once in a while",
+					"published_on":"04/14/2012",
+					"description":"",
+					"link":"http://archive.boston.com/lifestyle/blogs/thenextgreatgeneration/2012/04/opinion_even_if_its_work-relat.html"
+				},
+				{
+					"title":"Protesting the Oscars? Try Protesting Movies",
+					"published_on":"07/18/2022",
+					"description":"",
+					"link":"https://www.umassmedia.com/opinions/protesting-the-oscars-try-protesting-movies/article_a84a6aec-c23e-11e5-a138-df5853e96fc2.html"
+				},
+				{
+					"title":"",
+					"published_on":"",
+					"description":"",
+					"link":""
+				}
+			]
+		}
+	,
+	"skills": [
+		"GitHub",
+		"WordPress",
+		"OnBase",
+		"HTML",
+		"CSS",
+		"JavaScript"
+	]
+
+}
