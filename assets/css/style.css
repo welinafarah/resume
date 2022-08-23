@@ -1,0 +1,143 @@
+		nav {
+		    margin: 0;
+		    padding: 0;
+		    border: 0;
+		    outline: 0;
+		    font-size: 100%;
+		    vertical-align: baseline;
+		    background: transparent;
+		}
+		nav {
+		    display: block;
+		}
+		section{
+			padding-top: 72px;
+			margin-bottom: -30px;
+		}
+		.navbar {
+		    font-size: 105%;
+		    margin-bottom: 1.65em;
+
+		}
+		.navbar:after {
+		    content: "";
+		    display: table;
+		    clear: both;
+		}
+		.nav-wraper, .footer-wraper{
+			background-color: #f4f4f4;
+		}
+		.print-button{
+			display: none !important;
+		}
+		.footer-wraper {
+		    min-height: 80px;
+		}	
+		.sticky {
+		  position: fixed;
+		  top: 0;
+		  width: 100%;
+		  z-index: 1;
+		}
+		#intro{
+			/*margin-top: 72px;*/
+		}	
+		.blow-up{
+			color: #f4f4f4;
+			font-size: 21rem;
+			font-family: 'Playfair Display', serif;
+			margin-top: -6rem;
+			position: absolute;
+			z-index: -1;
+		}
+		.profile-wraper{
+			padding-top: 7.3rem;
+		}
+		.name-title {
+			font-family: 'Playfair Display', serif;
+			/*padding: 9rem 0 0 0;*/
+		}
+		.headshot {
+		    width: 150px;
+		    height: 150px;
+		    margin-right: 1.5rem;
+		    margin-left: 7rem;
+
+		}
+		.typed-cursor{
+			font-size: 4rem;
+		}
+		.blow-up-mobile{
+			color: #f4f4f4;
+			font-size: 21rem;
+			font-family: 'Playfair Display', serif;
+			margin-top: -6rem;
+			position: absolute;
+			z-index: -1;
+			display: block;
+		}
+		.blow-up{
+			display: none;
+		}
+		@media only screen and (min-width: 720px){
+			.intro {
+				padding-left: 7rem;
+				/*max-width: 80%;*/
+			}
+			.blow-up{
+				color: #f4f4f4;
+				font-size: 21rem;
+				font-family: 'Playfair Display', serif;
+				margin-top: -6rem;
+				position: absolute;
+				z-index: -1;
+				display: block;
+			}
+			.blow-up-mobile{
+				display: none;
+			}
+			.headshot {
+			    margin-left: 7rem;
+			}
+			.print-button{
+				display: block !important;
+			}
+		}
+		.job-title{
+			font-size: 1.2rem;
+			font-weight: 600;
+		}
+		.section-title{
+			font-family: 'Playfair Display', serif;
+			text-transform: uppercase;
+			font-weight: 600;
+			font-size: 1.7rem;
+			color: #6c757d;
+		}
+		.job{
+			font-family: 'Lato', sans-serif;
+		}
+		.company, .college, .published-date{
+			font-style: italic;
+			font-weight: 300;
+		}
+		.duration{
+			/*margin-left: 3rem;*/
+			font-weight: 300;
+		}
+		.job-desciption{
+
+			margin-top: 1.5rem ;
+		}
+		.job-desciption li{
+			margin-bottom: .2rem;
+		}
+
+		.school{
+			font-size: 1.2rem;
+			font-weight: 600;
+		}
+		/* Portfolio */
+		.article-title{
+			font-family: 'Playfair Display', serif;
+		}

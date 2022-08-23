@@ -62,31 +62,36 @@ data = {
 	"portfolio":
 		{
 			"articles":[
+				/* 
+					Example:
+					{
+						"title":"Do you 'KnowThyProf'? Northeastern student's new website offers a RateMyProfessors alternative",
+						"published_on":"03/21/2012",
+						"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+						"link":"http://archive.boston.com/lifestyle/blogs/thenextgreatgeneration/2012/03/do_you_knowthyprof_northeaster.html"
+
+					}
+				*/
+				
 				{
 					"title":"Do you 'KnowThyProf'? Northeastern student's new website offers a RateMyProfessors alternative",
 					"published_on":"03/21/2012",
-					"description":"",
+					"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 					"link":"http://archive.boston.com/lifestyle/blogs/thenextgreatgeneration/2012/03/do_you_knowthyprof_northeaster.html"
 
 				},
 				{
 					"title":"OPINION: Even if it's work-related, it's OK to 'power off' once in a while",
 					"published_on":"04/14/2012",
-					"description":"",
+					"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 					"link":"http://archive.boston.com/lifestyle/blogs/thenextgreatgeneration/2012/04/opinion_even_if_its_work-relat.html"
 				},
 				{
 					"title":"Protesting the Oscars? Try Protesting Movies",
 					"published_on":"07/18/2022",
-					"description":"",
+					"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 					"link":"https://www.umassmedia.com/opinions/protesting-the-oscars-try-protesting-movies/article_a84a6aec-c23e-11e5-a138-df5853e96fc2.html"
-				},
-				{
-					"title":"",
-					"published_on":"",
-					"description":"",
-					"link":""
-				}
+				}		
 			]
 		}
 	,
