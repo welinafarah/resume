@@ -1,8 +1,7 @@
 # HTML Resume template
 
 ## Why?
-I need to explain why I created this
-
+I'm here to showcase to you, the viewer, the extent of my capacities. Let's hope it's enough~
 ## Features
 Description of the features in this html template
 
